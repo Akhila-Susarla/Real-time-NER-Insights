@@ -1,3 +1,9 @@
+# MacOS System Files
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+
 # Virtual Environments
 venv/
 env/
@@ -117,18 +123,11 @@ kibana-*/data/
 *.swp
 *.swo
 *~
-.DS_Store
 *.sublime-project
 *.sublime-workspace
 .project
 .pydevproject
 .settings/
-
-# MacOS
-.DS_Store
-.AppleDouble
-.LSOverride
-._*
 
 # Windows
 Thumbs.db
