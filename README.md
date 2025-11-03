@@ -632,13 +632,3 @@ This project is submitted as part of academic coursework for CS6350 - Big Data M
 **Course**: CS6350 - Big Data Management and Analytics
 
 **Institution**: University of Texas at Dallas
-
-For questions or issues, please refer to the individual question documentation:
-- [Question 1 README](Question_1/readme.md)
-- Question 2 documentation available in respective Word documents
-
----
-
-**Last Updated**: November 2025
-
-# Real-time-NER-Insights

@@ -1,0 +1,204 @@
+# Virtual Environments
+venv/
+env/
+ENV/
+.venv
+.env
+virtualenv/
+*.virtualenv
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+pip-wheel-metadata/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# API Keys and Credentials
+.env
+*.env
+.env.local
+.env.*.local
+secrets.yml
+secrets.yaml
+credentials.json
+credentials.yml
+config/secrets/
+*.pem
+*.key
+*.crt
+*.cert
+api_keys.txt
+reddit_credentials.json
+
+# Reddit API Credentials
+reddit_config.ini
+praw.ini
+
+# Elasticsearch Credentials
+elasticsearch_password.txt
+elastic_credentials/
+
+# Data Files
+*.csv
+*.tsv
+*.txt
+*.json
+*.xml
+*.parquet
+*.avro
+*.orc
+*.dat
+*.data
+*.log
+*.logs
+
+# Keep specific required data files (if needed, uncomment these)
+# !Slashdot0811.txt
+# !requirements.txt
+# !README.md
+
+# Large Data Directories
+data/
+datasets/
+raw_data/
+processed_data/
+output/
+outputs/
+results/
+
+# Kafka
+/tmp/kafka-logs/
+/tmp/kraft-combined-logs/
+kafka-logs/
+zookeeper-data/
+
+# Spark
+spark-warehouse/
+metastore_db/
+derby.log
+/tmp/spark-chk*/
+checkpoint/
+checkpoints/
+
+# Elasticsearch & Logstash
+elasticsearch-*/data/
+elasticsearch-*/logs/
+logstash-*/data/
+logstash-*/logs/
+kibana-*/data/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
+*.ipynb_checkpoints
+
+# IDE and Editors
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+*.sublime-project
+*.sublime-workspace
+.project
+.pydevproject
+.settings/
+
+# MacOS
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+
+# Windows
+Thumbs.db
+Thumbs.db:encryptable
+ehthumbs.db
+ehthumbs_vista.db
+*.stackdump
+[Dd]esktop.ini
+$RECYCLE.BIN/
+
+# Microsoft Office Temporary Files
+~$*.doc*
+~$*.xls*
+~$*.ppt*
+*.tmp
+
+# Backup Files
+*.bak
+*.backup
+*.old
+*~
+
+# Compiled Source
+*.com
+*.class
+*.dll
+*.exe
+*.o
+*.so
+
+# Archives
+*.7z
+*.dmg
+*.gz
+*.iso
+*.jar
+*.rar
+*.tar
+*.zip
+
+# Logs and Databases
+*.log
+*.sql
+*.sqlite
+*.db
+
+# Testing
+.pytest_cache/
+.coverage
+htmlcov/
+.tox/
+.nox/
+coverage.xml
+*.cover
+.hypothesis/
+
+# Documentation Builds
+docs/_build/
+site/
+
+# Package Manager
+node_modules/
+package-lock.json
+yarn.lock
+
+# Environment Variables
+.envrc
+
+# Temporary Files
+tmp/
+temp/
+*.tmp
+
